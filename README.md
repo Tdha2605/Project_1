@@ -9,4 +9,6 @@ Với các bài lập trình cơ bản trong 8 tuần đầu, các bạn tự gi
 Với các bài báo nghiên cứu, cũng 2 tuần một lần, các bạn báo cáo tiến độ về việc đọc hiểu nôi dung các bài báo, tái hiện lại phần thì nghiệm trong các bài báo.
 	
 Kết thúc môn học, sinh viên chuẩn bị slides trình bày các hiểu biết và kết quả thực nghiệm liên quan đến bài báo khoa học mình lựa chọn. 
+
+* Note: Link to Paper : https://github.com/Tdha2605/PET
  
